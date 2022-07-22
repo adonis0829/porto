@@ -1,26 +1,30 @@
 module.exports = {
-  email: 'brittany.chiang@gmail.com',
+  email: 'sammysato17@gmail.com',
 
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/bchiang7',
+      url: 'https://github.com/kinxtar',
     },
     {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
+      name: 'Discord',
+      url: 'https://discord.com/users/_kinxtar_',
     },
     {
-      name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      name: 'Website',
+      url: 'https://v4-sammy.netlify.app/',
     },
     {
-      name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
+      name: 'Skype',
+      url: 'https://join.skype.com/invite/sKuzmQFIwPWJ',
     },
     {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
+      name: 'Telegram',
+      url: 'https://t.me/kin_x_tar',
+    },
+    {
+      name: 'Phone',
+      url: '+1 406 203 4555',
     },
   ],
 
