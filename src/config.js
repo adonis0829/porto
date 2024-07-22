@@ -11,10 +11,6 @@ module.exports = {
       url: 'https://discord.com/users/_kinxtar_',
     },
     {
-      name: 'Website',
-      url: 'https://v4-sammy.netlify.app/',
-    },
-    {
       name: 'Skype',
       url: 'https://join.skype.com/invite/sKuzmQFIwPWJ',
     },
@@ -23,8 +19,8 @@ module.exports = {
       url: 'https://t.me/kin_x_tar',
     },
     {
-      name: 'Phone',
-      url: '+1 406 203 4555',
+      name: 'Website',
+      url: 'https://v4-sammy.netlify.app/',
     },
   ],
 
